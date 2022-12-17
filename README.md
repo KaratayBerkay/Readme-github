@@ -1,17 +1,19 @@
-# BIN Number of Turkish Banks
+# Example Header
 Turkish bank bin numbers and schemas
 
-# Bufi B2B FastApi Backend Project
-* Use .json file to migrate data in to db
+# Example Header
+* Example Bullet
+* Example Bullet
+* Example Bullet
+* Example Bullet
 
 ## Requirements
 
 * [Python ^3.10.0](https://www.python.org/ftp/python/3.10.0/Python-3.10.0.tgz)
-* [Postgresql](https://www.postgresql.org)
 * [Pycharm](https://www.jetbrains.com/pycharm)
 
-## Preparation
-* Clone project from github with:
+## Example Header
+* Clone project from git-hub with:
 
 ```bash
 git clone git@github.com:KarateB/tr-bank-bin-numbers.git
@@ -21,7 +23,7 @@ If git is not installed at your computer please install git first.
 * Open the project at pycharm.
 * Then follow steps.
 
-## Local development
+## Example Header
 
 * Create Virtual Environment:
 
