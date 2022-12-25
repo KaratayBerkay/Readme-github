@@ -34,7 +34,7 @@ python3 -m venv venv
 * Activate your environment with:
 
 ```bash
-source venv/bin/activate 
+.venv/bin/activate 
 ```
 * Upgrade your pip before install requirements (Recommended):
 
